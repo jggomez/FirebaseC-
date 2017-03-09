@@ -1,0 +1,17 @@
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\TestFirebase.exe.config
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\TestFirebase.exe
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\TestFirebase.pdb
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\Firebase.Database.dll
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\Newtonsoft.Json.dll
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\System.Reactive.Core.dll
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\System.Reactive.Interfaces.dll
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\System.Reactive.Linq.dll
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\System.Reactive.PlatformServices.dll
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\Newtonsoft.Json.xml
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\System.Reactive.Core.xml
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\System.Reactive.Interfaces.xml
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\System.Reactive.Linq.xml
+F:\Otros\TestFirebase\TestFirebase\bin\Debug\System.Reactive.PlatformServices.xml
+F:\Otros\TestFirebase\TestFirebase\obj\Debug\TestFirebase.csprojResolveAssemblyReference.cache
+F:\Otros\TestFirebase\TestFirebase\obj\Debug\TestFirebase.exe
+F:\Otros\TestFirebase\TestFirebase\obj\Debug\TestFirebase.pdb
